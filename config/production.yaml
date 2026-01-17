@@ -30,11 +30,14 @@ webServer:
 # If you are connecting on a public IP (e.g. on AWS or Google Cloud Run), you
 # connect on the public IP of the database e.g. database.examplepod.com.
 database:
-  host: shuttle.proxy.rlwy.net 
-  port: 27397
-  name: railway
-  user: postgres
+  host: shuttle.proxy.rlwy.net   # Railway host
+  port: 41444                    # Railway port
+  name: railway                  # Database name
+  user: postgres                 # Database user
+  password: aJcDWgMnmMBxZWPBwLdmcwkFGqRscuOh  # Database password
+  requireSSL: true               # Railway DB usually SSL চায়
   applyMigrations: true
+
   #isUnixSocket: true # defaults to false
 
 # This is the setup for Redis. The default for the Google Cloud Engine Terraform
