@@ -1,8 +1,0 @@
-class: StaffProfileDto
-fields:
-  name: String
-  email: String
-  phone: String
-  designation: String
-  qualification: String
-  profilePictureUrl: String?

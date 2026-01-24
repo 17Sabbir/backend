@@ -1,5 +1,0 @@
-enum: ShiftType
-values:
-  - MORNING
-  - AFTERNOON
-  - NIGHT

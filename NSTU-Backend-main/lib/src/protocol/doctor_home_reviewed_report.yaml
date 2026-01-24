@@ -1,7 +1,0 @@
-class: DoctorHomeReviewedReport
-fields:
-  reportId: int?
-  type: String
-  uploadedByName: String
-  prescriptionId: int?
-  timeAgo: String

@@ -1,5 +1,0 @@
-class: Rosterlists
-fields:
-  userId: String
-  name: String
-  role: String

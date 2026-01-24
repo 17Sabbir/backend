@@ -1,4 +1,0 @@
-class: TopMedicine
-fields:
-  medicineName: String
-  used: int

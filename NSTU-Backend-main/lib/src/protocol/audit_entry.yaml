@@ -1,7 +1,0 @@
-class: AuditEntry
-fields:
-  auditId: int
-  action: String
-  targetName: String?
-  createdAt: DateTime
-  adminName: String?

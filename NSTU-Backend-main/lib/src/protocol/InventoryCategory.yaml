@@ -1,5 +1,0 @@
-class: InventoryCategory
-fields:
-  categoryId: int?
-  categoryName: String
-  description: String?

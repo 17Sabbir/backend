@@ -1,7 +1,0 @@
-class: AmbulanceContact
-fields:
-  contactId: int
-  contactTitle: String
-  phoneBn: String
-  phoneEn: String
-  isPrimary: bool

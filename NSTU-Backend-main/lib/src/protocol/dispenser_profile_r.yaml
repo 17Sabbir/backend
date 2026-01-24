@@ -1,9 +1,0 @@
-class: DispenserProfileR
-fields:
-  name: String
-  email: String
-  phone: String
-  designation: String
-  qualification: String
-  profilePictureUrl: String?
-

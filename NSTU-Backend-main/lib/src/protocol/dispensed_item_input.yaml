@@ -1,5 +1,0 @@
-class: DispensedItemInput
-fields:
-  itemId: int
-  medicineName: String
-  quantity: int

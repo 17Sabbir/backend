@@ -1,8 +1,0 @@
-class: AdminProfileRespond
-fields:
-  name: String
-  email: String
-  phone: String
-  profilePictureUrl: String?
-  designation: String?
-  qualification: String?

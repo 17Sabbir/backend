@@ -1,9 +1,0 @@
-class: PatientProfile
-fields:
-  name: String
-  email: String
-  phone: String
-  bloodGroup: String?
-  dateOfBirth: DateTime?
-  gender: String?
-  profilePictureUrl: String?

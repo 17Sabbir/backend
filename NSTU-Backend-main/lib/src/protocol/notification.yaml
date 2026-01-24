@@ -1,8 +1,0 @@
-class: NotificationInfo
-fields:
-  notificationId: int
-  userId: int
-  title: String
-  message: String
-  isRead: bool
-  createdAt: DateTime

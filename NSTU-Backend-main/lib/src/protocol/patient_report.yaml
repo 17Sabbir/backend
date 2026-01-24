@@ -1,7 +1,0 @@
-class: PatientReportDto
-fields:
-  id: int
-  testName: String
-  date: DateTime
-  isUploaded: bool
-  fileUrl: String?
